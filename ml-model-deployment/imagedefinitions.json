@@ -1,0 +1,6 @@
+[
+  {
+    "name": "ml-api",
+    "imageUri": "ACCOUNT_ID.dkr.ecr.REGION.amazonaws.com/ml-model-api:latest"
+  }
+]
